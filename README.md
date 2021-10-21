@@ -9,4 +9,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
-Victor Paulsen
+Victor Paulsen. All rights reserved.
